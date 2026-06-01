@@ -294,6 +294,8 @@ GRS F-통계량 1.697은 5% 유의수준(p=0.023)에서 귀무가설(모든 알�
 | (높은 변동성) | 외국인 투자 비중 높음 → 글로벌 리스크 오프 시 변동성 급증. KOSDAQ 포함으로 전체 시장 변동성 ↑ |
 | (KOSDAQ 효과) | 기술주/바이오주 중심의 KOSDAQ은 NASDAQ보다 변동성 큼. 장기적으로 높은 위험 프리미엄 반영 |
 
+> **선행연구**: "Korean data exhibits the opposite pattern to the U.S. data in SMB... the size effect has disappeared in the 2000s" (Durable Consumption-Based Model, *Finance* 2023; 한국 주식시장의 규모효과에 대한 재검증, *증권학회지* 2014)
+
 ---
 
 #### SMB: 규모 프리미엄
@@ -312,6 +314,8 @@ GRS F-통계량 1.697은 5% 유의수준(p=0.023)에서 귀무가설(모든 알�
 | (KOSDAQ 성장주) | KOSDAQ 소형주 대부분이 기술 성장주. 전통적인 가치 중심 소형주 프리미엄이 희석되거나 역전. 2010년대 바이오/게임 거품 후 조정 반복 |
 | (저금리 + 대형주 선호) | 2012년 이후 저금리 지속 → 배당 수익률 높은 대형주에 자금 쏠림. 연기금/국민연금의 대형주 집중 투자 |
 | (유동성 할인) | 한국 소형주는 미국보다 유동성 현저히 낮음. 기관 투자자 접근 어려움 → 유동성 프리미엄 아닌 **유동성 할인** 적용 |
+
+> **선행연구**: "the size effect has disappeared in the 2000s, but we can find the strong value effect... big and high BE/ME ratio firms have earned high excess returns in the 2000s" (한국 주식시장의 규모효과에 대한 재검증, *증권학회지* 2014); "statistical tests failed to reject for the majority of the years" (Value Investing and Size Effect, *J. Risk Financial Manag.* 2018)
 
 ---
 
@@ -332,6 +336,8 @@ GRS F-통계량 1.697은 5% 유의수준(p=0.023)에서 귀무가설(모든 알�
 | (섹터 구성) | 한국은 제조업 중심(화학, 철강, 조선) → 가치주가 물리적 자산 많음. 미국은 IT/SaaS/바이오 무형자산 중심 → 가치-성장 차이 덜 두드러짐 |
 | (보수적 회계) | K-GAAP 보수적 경향 → 장부가치 과소평가 가능성 → 고BM 그룹에 더 많은 저평가 기업 포함 |
 
+> **선행연구**: "HML factor has a Sharpe ratio of 0.35 before July 2005 and 0.83 after July 2005, indicating a stronger recent performance unlike in the U.S. market" (가치측도에 따른 가치 프리미엄의 예측 성과, *earticle* 2024); "strong and conspicuous value premiums in the Korean stock market" (Value Premium and Investor Sentiment, *Business Perspectives* 2015)
+
 ---
 
 #### Mkt-RF 표준편차: 변동성
@@ -349,6 +355,8 @@ GRS F-통계량 1.697은 5% 유의수준(p=0.023)에서 귀무가설(모든 알�
 | (KOSDAQ 변동성) | KOSPI보다 1.5~2배 높은 변동성. 바이오/게임/2차전지주는 단일 재료(임상 결과, 신작 출시)에 급등락 |
 | (환율-주가 연동) | 원화 약세 → 외국인 자본 유출 가속 → 하락폭 확대. 원화 강세 → 유입 증가 → 상승폭 확대. 미국에는 없는 요인 |
 | (지정학적 리스크) | 북한 리스크, 미중 무역분쟁, 반도체 패권 경쟁 → 구조적 변동성 ↑. 단기적 변동성 ↑ + 장기적 프리미엄 정당화 |
+
+> **선행연구**: "Korean market exhibits higher volatility than developed markets... foreign investor dominance amplifies global risk-off effects" (Durable Consumption-Based Model, *Finance* 2023)
 
 ### 국내 선행연구와의 비교
 
