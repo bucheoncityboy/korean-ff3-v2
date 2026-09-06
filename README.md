@@ -3,6 +3,7 @@
 ## 📄 연구 보고서
 
 - [**한국 시장 Fama-French 3-Factor 실증 연구보고서 (PDF)**](./한국%20시장%20Fama-French%203-Factor%20실증%20연구보고서.pdf)
+- [**Fama-French (1993) 재현 발표자료 (HY-FIN 리서치 세션 5조, PDF)**](./Fama-French%20(1993)%20재현%20발표자료.pdf)
 
 > FnGuide 1,054종목·311개월 패널을 가공해 25개 Size×BM 포트폴리오를 만들고, 3-Factor 모델의 적합성과 팩터 프리미엄을 미국(CRSP)과 비교 검증한 실증 연구다.
 
